@@ -1,0 +1,28 @@
+body{
+    padding-left: 10em;
+    padding-right: 10em;
+    background-color: hwb(44 70% 2%) ;
+    }
+
+.heading-container {
+    margin-top: 3.5em;
+    background-color: #d3a425;
+    text-align: center;
+    border-radius: 2em;
+}
+.line {
+height: 3px;
+background-color: black;
+width: 100%;
+}
+
+
+a {
+    color: black;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(138, 67, 0);
+}
