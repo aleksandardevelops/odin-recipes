@@ -1,6 +1,6 @@
 body{
-    padding-left: 10em;
-    padding-right: 10em;
+    padding-left: 20%;
+    padding-right: 20%;
     background-color: hwb(44 70% 2%) ;
     }
 
@@ -25,4 +25,30 @@ a {
 
 a:hover {
     color: rgb(138, 67, 0);
+}
+
+.h1-class {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.images {
+    height: auto;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 30px;
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: #000000c7;
+}
+li {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: #000000c7;
 }
